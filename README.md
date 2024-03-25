@@ -3,7 +3,7 @@ Thymeleaf and GET, POST example
 
 Using Thymeleaf in HTML5 with Spring Model Class (GET/POST method)
 1)	Open Spring Tool Suite 4
-2)	Create Spring Starter project called Form
+2)	Create Spring Starter project called Result
 3)	Add Spring Web and Thymelleaf from https://start.spring.io
 4)	Click finish
 5)	Create ResultController
